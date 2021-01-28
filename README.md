@@ -18,6 +18,9 @@
 <img src="./images/logo.png" alt="Eiffel RemRem" width="350"/>
 
 # Eiffel RemRem Parent
+
+[![Sandbox badge](https://img.shields.io/badge/Stage-Sandbox-yellow)](https://github.com/eiffel-community/community/blob/master/PROJECT_LIFECYCLE.md#stage-sandbox)
+
 Parent pom for Eiffel REMREM projects.
 
 # About this repository
