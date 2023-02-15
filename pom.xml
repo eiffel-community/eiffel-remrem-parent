@@ -22,12 +22,12 @@
         <logback.version>1.2.10</logback.version>
         <commans.lang3.version>3.7</commans.lang3.version>
         <commons.io.version>2.7</commons.io.version>
-        <mockito.version>4.5.1</mockito.version>
+        <mockito.version>3.7.7</mockito.version>
         <jackson.databind.version>2.14.1</jackson.databind.version>
         <json.schema.validator.version>2.2.8</json.schema.validator.version>
         <gson.version>2.9.0</gson.version>
         <swagger.ui.version>2.6.1</swagger.ui.version>
-        <powermock.version>1.7.3</powermock.version>
+        <powermock.version>2.0.9</powermock.version>
     </properties>
     <dependencyManagement>
         <dependencies>

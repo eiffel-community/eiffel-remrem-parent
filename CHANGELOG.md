@@ -1,7 +1,8 @@
 ## 2.1.0
 - Uplifted spring-boot version from 2.0.1.RELEASE to 2.7.5.
-- Uplifted spring-security-ldap version to 5.7.5 from 5.0.5.RELEASE to 5.7.5.
-- Uplifted mockito-core version from 2.8.47 to 4.5.1.
+- Uplifted spring-security-ldap version from 5.0.5.RELEASE to 5.7.5.
+- Uplifted mockito-core version from 2.8.47 to 3.7.7.
+- Uplifted powermock version from 1.7.3 to 2.0.9.
 
 ## 2.0.9
 - Uplifted jackson databind from 2.13.3 to 2.14.1 to resolve security vulnerability issue.
