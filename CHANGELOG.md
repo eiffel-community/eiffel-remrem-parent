@@ -1,3 +1,6 @@
+## 2.0.10
+- Modifying parent pom version to 2.0.10.
+
 ## 2.1.0
 - Uplifted spring-boot version from 2.0.1.RELEASE to 2.7.5.
 - Uplifted spring-security-ldap version from 5.0.5.RELEASE to 5.7.5.
