@@ -1,3 +1,6 @@
+## 2.0.13
+- Logback uplifted to 1.2.13
+
 ## 2.0.12
 - Mockito framework upgraded to 5.3.1
 
