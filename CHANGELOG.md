@@ -1,3 +1,6 @@
+## 2.0.14
+- commons-io uplifted to 2.14.0
+
 ## 2.0.13
 - Logback uplifted to 1.2.13
 - Springboot uplifted to 2.7.18
