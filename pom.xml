@@ -3,11 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.eiffel-community</groupId>
     <artifactId>eiffel-remrem-parent</artifactId>
-    <version>2.0.15</version>
+    <version>2.0.16</version>
     <packaging>pom</packaging>
     <properties>
         <slf4j.version>1.7.25</slf4j.version>
         <springboot.version>2.7.18</springboot.version>
+        <springfox-boot-starter.version>3.0.0</springfox-boot-starter.version>
         <apacheDS.version>1.5.7</apacheDS.version>
         <junit.version>4.13.1</junit.version>
         <javax-servlet.version>4.0.0</javax-servlet.version>
@@ -20,7 +21,7 @@
         <javax.inject.version>2.5.0-b60</javax.inject.version>
         <logback.version>1.2.13</logback.version>
         <commans.lang3.version>3.7</commans.lang3.version>
-        <commons.io.version>2.7</commons.io.version>
+        <commons.io.version>2.14.0</commons.io.version>
         <mockito.version>5.3.1</mockito.version>
         <jackson.databind.version>2.14.1</jackson.databind.version>
         <json.schema.validator.version>2.2.8</json.schema.validator.version>
