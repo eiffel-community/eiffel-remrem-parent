@@ -1,3 +1,7 @@
+
+## 2.0.16
+- commons-io uplifted to 2.14.0
+
 ## 2.0.15
 - Swagger uplifted to 3.0.0
 
