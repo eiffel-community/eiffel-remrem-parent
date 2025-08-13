@@ -1,3 +1,5 @@
+## 2.0.17
+- commons-lang3 uplifted to 3.18.0
 
 ## 2.0.16
 - commons-io uplifted to 2.14.0
