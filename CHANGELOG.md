@@ -1,3 +1,12 @@
+## 2.0.17
+- commons-lang3 uplifted to 3.18.0
+
+## 2.0.16
+- commons-io uplifted to 2.14.0
+
+## 2.0.15
+- Swagger uplifted to 3.0.0
+
 ## 2.0.14
 - Ensure Eclipse Temurin is used to build the library
 
