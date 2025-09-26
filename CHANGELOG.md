@@ -1,3 +1,6 @@
+## 2.0.18
+- mockito uplifted to 5.20.0
+
 ## 2.0.17
 - commons-lang3 uplifted to 3.18.0
 
