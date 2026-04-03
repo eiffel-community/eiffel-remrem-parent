@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <properties>
         <slf4j.version>2.0.17</slf4j.version>
-        <springboot.version>3.5.12</springboot.version>
+        <springboot.version>4.0.3</springboot.version>
         <springfox-boot-starter.version>3.0.0</springfox-boot-starter.version>
         <apacheDS.version>1.5.7</apacheDS.version>
         <junit-jupiter.version>5.11.4</junit-jupiter.version>
@@ -18,7 +18,7 @@
         <springfox-boot-starter.version>3.0.0</springfox-boot-starter.version>
         <jacoco-maven-plugin.version>0.8.14</jacoco-maven-plugin.version>
         <jasypt-spring-boot-starter.version>3.0.5</jasypt-spring-boot-starter.version>
-        <spring-security-ldap.version>6.5.9</spring-security-ldap.version>
+        <spring-security-ldap.version>7.0.3</spring-security-ldap.version>
         <javax.inject.version>2.5.0-b60</javax.inject.version>
         <logback.version>1.5.32</logback.version>
         <commans.lang3.version>3.18.0</commans.lang3.version>
